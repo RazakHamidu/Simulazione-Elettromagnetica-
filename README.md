@@ -1,6 +1,6 @@
 # Simulazione Elettromagnetica 🧲
 
-Una applicazione interattiva per la visualizzazione e simulazione di fenomeni elettromagnetici, sviluppata con Python e Streamlit.
+Una applicazione interattiva per la visualizzazione e simulazione di fenomeni elettromagnetici, sviluppata con Python e Streamlit. [Versione Live](https://simele.streamlit.app/)
 
 ## 📝 Descrizione
 
