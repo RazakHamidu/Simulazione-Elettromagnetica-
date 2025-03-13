@@ -32,7 +32,7 @@ Questa applicazione permette di visualizzare e interagire con tre diverse simula
 
 1. Clona il repository:
 ```bash
-git clone https://github.com/your-username/simulazione-elettromagnetica.git
+git clone [https://github.com/your-username/simulazione-elettromagnetica.git](https://github.com/RazakHamidu/Simulazione-Elettromagnetica-/edit/main/README.md)
 cd simulazione-elettromagnetica
 ```
 
